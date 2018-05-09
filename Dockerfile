@@ -59,4 +59,4 @@ RUN addgroup -g 1000 node \
     && rm "node-v$NODE_VERSION.tar.xz" SHASUMS256.txt.asc SHASUMS256.txt
 
 # Yarn
-npm install -g yarn
+RUN npm install -g yarn
