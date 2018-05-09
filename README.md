@@ -20,4 +20,4 @@ This container is released under the MIT License. For more information read the 
 
 [issue_tracker]: https://github.com/alrayyes/docker-symfony-ci/issues
 [pull_request]: https://github.com/alrayyes/docker-symfony-ci/pulls
-[license]: https://github.com/alrayyes/docker-symfony-ci/blob/master/LICENSE.md
+[license]: https://github.com/alrayyes/docker-symfony-ci/blob/master/LICENSE
